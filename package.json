@@ -21,6 +21,7 @@
     "react-notion-x": "^7.2.6"
   },
   "devDependencies": {
+    "@types/node": "22.13.2",
     "@types/react": "19.0.8",
     "typescript": "5.7.3"
   }
