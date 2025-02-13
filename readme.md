@@ -26,6 +26,8 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## License
 
-MIT © [Travis Fischer](https://transitivebullsh.it)
 
-Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
+<details>
+  <summary>Credits</summary>
+ MIT © [Travis Fischer](https://transitivebullsh.it)
+</details>
